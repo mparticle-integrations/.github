@@ -1,3 +1,8 @@
-# Summary
+## Summary
+- {provide a thorough description of the changes}
 
-(Please provide a high level summary)
+## Testing Plan
+- {explain how this has been tested, and what additional testing should be done}
+
+## Reference Issue
+- Closes https://go.mparticle.com/work/REPLACEME
